@@ -3,7 +3,13 @@ xcuserdata/
 *.xcuserstate
 DerivedData/
 .build/
-.swiftpm/xcode/package.xcworkspace/xcuserdata/
+.swiftpm/
 
 # macOS
 .DS_Store
+
+# compiled demo binaries / object files (build locally per each demo's README)
+*.o
+*.dSYM/
+16-09-2026_swift_mentorship_26-demo_showcase/demo-objc-property-simple/demo
+16-09-2026_swift_mentorship_26-demo_showcase/demo-objc-property-simple/demo-patched
